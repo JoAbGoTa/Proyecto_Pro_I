@@ -1,0 +1,18 @@
+C:\Users\yo\Desktop\capa_de_datos\bin\Debug\capa_de_datos.dll
+C:\Users\yo\Desktop\capa_de_datos\bin\Debug\capa_de_datos.pdb
+C:\Users\yo\Desktop\capa_de_datos\bin\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\capa_de_datos\bin\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\capa_de_datos\obj\Debug\capa_de_datos.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\capa_de_datos\obj\Debug\capa_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\capa_de_datos\obj\Debug\capa_de_datos.csproj.CopyComplete
+C:\Users\yo\Desktop\capa_de_datos\obj\Debug\capa_de_datos.dll
+C:\Users\yo\Desktop\capa_de_datos\obj\Debug\capa_de_datos.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\obj\Debug\capa_de_datos.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\obj\Debug\capa_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\obj\Debug\capa_de_datos.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\obj\Debug\capa_de_datos.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\bin\Debug\capa_de_datos.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\bin\Debug\capa_de_datos.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\bin\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\bin\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_de_datos\obj\Debug\capa_de_datos.csproj.CopyComplete

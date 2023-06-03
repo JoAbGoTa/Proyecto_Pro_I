@@ -1,0 +1,39 @@
+C:\Users\yo\Desktop\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\yo\Desktop\proyecto\bin\Debug\proyecto.exe
+C:\Users\yo\Desktop\proyecto\bin\Debug\proyecto.pdb
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.exe
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.pdb
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.Form2.resources
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.pacont.resources
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.Form3.resources
+C:\Users\yo\Desktop\proyecto\bin\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\proyecto\bin\Debug\capa_esc.dll
+C:\Users\yo\Desktop\proyecto\bin\Debug\capa_de_datos.dll
+C:\Users\yo\Desktop\proyecto\bin\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\proyecto\bin\Debug\capa_esc.pdb
+C:\Users\yo\Desktop\proyecto\bin\Debug\capa_de_datos.pdb
+C:\Users\yo\Desktop\proyecto\obj\Debug\proyecto.csproj.CopyComplete
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\proyecto.exe
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\proyecto.pdb
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\capa_esc.dll
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\capa_de_datos.dll
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\capa_esc.pdb
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\bin\Debug\capa_de_datos.pdb
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.pacont.resources
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.Form3.resources
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.csproj.CopyComplete
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.exe
+C:\Users\yo\Desktop\Nueva carpeta\proyecto\obj\Debug\proyecto.pdb

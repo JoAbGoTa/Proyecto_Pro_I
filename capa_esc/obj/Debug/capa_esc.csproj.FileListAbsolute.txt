@@ -1,0 +1,22 @@
+C:\Users\yo\Desktop\capa_esc\bin\Debug\capa_esc.dll
+C:\Users\yo\Desktop\capa_esc\bin\Debug\capa_esc.pdb
+C:\Users\yo\Desktop\capa_esc\bin\Debug\capa_de_datos.dll
+C:\Users\yo\Desktop\capa_esc\bin\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\capa_esc\bin\Debug\capa_de_datos.pdb
+C:\Users\yo\Desktop\capa_esc\bin\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\capa_esc\obj\Debug\capa_esc.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\capa_esc\obj\Debug\capa_esc.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\capa_esc\obj\Debug\capa_esc.csproj.CopyComplete
+C:\Users\yo\Desktop\capa_esc\obj\Debug\capa_esc.dll
+C:\Users\yo\Desktop\capa_esc\obj\Debug\capa_esc.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\bin\Debug\capa_esc.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\bin\Debug\capa_esc.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\bin\Debug\capa_de_datos.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\bin\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\bin\Debug\capa_de_datos.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\bin\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\obj\Debug\capa_esc.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\obj\Debug\capa_esc.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\obj\Debug\capa_esc.csproj.CopyComplete
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\obj\Debug\capa_esc.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_esc\obj\Debug\capa_esc.pdb

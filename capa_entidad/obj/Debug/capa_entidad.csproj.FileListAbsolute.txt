@@ -1,0 +1,12 @@
+C:\Users\yo\Desktop\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\capa_entidad\obj\Debug\capa_entidad.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\capa_entidad\obj\Debug\capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\capa_entidad\obj\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\yo\Desktop\Nueva carpeta\capa_entidad\obj\Debug\capa_entidad.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\Nueva carpeta\capa_entidad\obj\Debug\capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\Nueva carpeta\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\yo\Desktop\Nueva carpeta\capa_entidad\obj\Debug\capa_entidad.pdb
